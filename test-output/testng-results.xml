@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Parallel Testing Suite" duration-ms="8255" started-at="2020-07-12T19:51:39Z" finished-at="2020-07-12T19:51:47Z">
+    <groups>
+    </groups>
+    <test name="Parallel Tests" duration-ms="8255" started-at="2020-07-12T19:51:39Z" finished-at="2020-07-12T19:51:47Z">
+      <class name="tests.ParallelExecution">
+        <test-method status="PASS" signature="internetExpBrowser()[pri:0, instance:tests.ParallelExecution@25d250c6]" name="internetExpBrowser" duration-ms="16" started-at="2020-07-12T19:51:39Z" finished-at="2020-07-12T19:51:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- internetExpBrowser -->
+        <test-method status="PASS" signature="fireFoxBrowser()[pri:0, instance:tests.ParallelExecution@25d250c6]" name="fireFoxBrowser" duration-ms="8228" started-at="2020-07-12T19:51:39Z" finished-at="2020-07-12T19:51:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fireFoxBrowser -->
+        <test-method status="PASS" signature="chromeBrowser()[pri:0, instance:tests.ParallelExecution@25d250c6]" name="chromeBrowser" duration-ms="8227" started-at="2020-07-12T19:51:39Z" finished-at="2020-07-12T19:51:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeBrowser -->
+      </class> <!-- tests.ParallelExecution -->
+    </test> <!-- Parallel Tests -->
+  </suite> <!-- Parallel Testing Suite -->
+</testng-results>

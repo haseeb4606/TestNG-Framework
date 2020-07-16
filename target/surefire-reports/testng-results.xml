@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Tek school Data Driven Framework" duration-ms="102" started-at="2020-07-12T19:17:47Z" finished-at="2020-07-12T19:17:47Z">
+    <groups>
+      <group name="smokeTest">
+        <method signature="TestNGConcepts.dashboard()[pri:0, instance:tests.TestNGConcepts@4d3167f4]" name="dashboard" class="tests.TestNGConcepts"/>
+        <method signature="TestNGConcepts.customerPage()[pri:0, instance:tests.TestNGConcepts@4d3167f4]" name="customerPage" class="tests.TestNGConcepts"/>
+        <method signature="TestNGConcepts.logout()[pri:0, instance:tests.TestNGConcepts@4d3167f4]" name="logout" class="tests.TestNGConcepts"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test name="Login to Hotel Page" duration-ms="102" started-at="2020-07-12T19:17:47Z" finished-at="2020-07-12T19:17:47Z">
+      <class name="tests.TestNGConcepts">
+        <test-method status="PASS" signature="dashboard()[pri:0, instance:tests.TestNGConcepts@4d3167f4]" name="dashboard" duration-ms="9" started-at="2020-07-12T19:17:47Z" finished-at="2020-07-12T19:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dashboard -->
+        <test-method status="PASS" signature="signIn()[pri:0, instance:tests.TestNGConcepts@4d3167f4]" name="signIn" duration-ms="1" started-at="2020-07-12T19:17:47Z" finished-at="2020-07-12T19:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method status="PASS" signature="checkTitle()[pri:0, instance:tests.TestNGConcepts@4d3167f4]" name="checkTitle" duration-ms="2" started-at="2020-07-12T19:17:47Z" finished-at="2020-07-12T19:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method status="PASS" signature="checkTitle()[pri:0, instance:tests.TestNGConcepts@4d3167f4]" name="checkTitle" duration-ms="1" started-at="2020-07-12T19:17:47Z" finished-at="2020-07-12T19:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method status="PASS" signature="checkTitle()[pri:0, instance:tests.TestNGConcepts@4d3167f4]" name="checkTitle" duration-ms="1" started-at="2020-07-12T19:17:47Z" finished-at="2020-07-12T19:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method status="PASS" signature="checkTitle()[pri:0, instance:tests.TestNGConcepts@4d3167f4]" name="checkTitle" duration-ms="1" started-at="2020-07-12T19:17:47Z" finished-at="2020-07-12T19:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method status="PASS" signature="checkTitle()[pri:0, instance:tests.TestNGConcepts@4d3167f4]" name="checkTitle" duration-ms="1" started-at="2020-07-12T19:17:47Z" finished-at="2020-07-12T19:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method status="PASS" signature="checkTitle()[pri:0, instance:tests.TestNGConcepts@4d3167f4]" name="checkTitle" duration-ms="0" started-at="2020-07-12T19:17:47Z" finished-at="2020-07-12T19:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method status="PASS" signature="checkTitle()[pri:0, instance:tests.TestNGConcepts@4d3167f4]" name="checkTitle" duration-ms="1" started-at="2020-07-12T19:17:47Z" finished-at="2020-07-12T19:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method status="PASS" signature="checkTitle()[pri:0, instance:tests.TestNGConcepts@4d3167f4]" name="checkTitle" duration-ms="1" started-at="2020-07-12T19:17:47Z" finished-at="2020-07-12T19:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method status="PASS" signature="checkTitle()[pri:0, instance:tests.TestNGConcepts@4d3167f4]" name="checkTitle" duration-ms="2" started-at="2020-07-12T19:17:47Z" finished-at="2020-07-12T19:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method status="PASS" signature="checkTitle()[pri:0, instance:tests.TestNGConcepts@4d3167f4]" name="checkTitle" duration-ms="1" started-at="2020-07-12T19:17:47Z" finished-at="2020-07-12T19:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method status="PASS" signature="customerPage()[pri:0, instance:tests.TestNGConcepts@4d3167f4]" name="customerPage" duration-ms="2" started-at="2020-07-12T19:17:47Z" finished-at="2020-07-12T19:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerPage -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:tests.TestNGConcepts@4d3167f4]" name="logout" duration-ms="1" started-at="2020-07-12T19:17:47Z" finished-at="2020-07-12T19:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="homePage()[pri:0, instance:tests.TestNGConcepts@4d3167f4]" name="homePage" duration-ms="0" started-at="2020-07-12T19:17:47Z" depends-on-methods="tests.TestNGConcepts.signIn" finished-at="2020-07-12T19:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+      </class> <!-- tests.TestNGConcepts -->
+    </test> <!-- Login to Hotel Page -->
+  </suite> <!-- Tek school Data Driven Framework -->
+</testng-results>
